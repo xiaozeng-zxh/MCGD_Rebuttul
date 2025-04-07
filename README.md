@@ -13,3 +13,7 @@
 ![](images/Figure_1.png)
 
 ![](images/Equation_1.png)
+
+![](images/Table_5.png)
+
+![](images/Figure_2.png)
